@@ -10,5 +10,5 @@ def multiply(a, b):
     return a * b
 
 def divide(a, b):
-    # BUG: yesu prabhu
+    # sweety chicken rice thecha 
     return a / b
