@@ -10,5 +10,5 @@ def multiply(a, b):
     return a * b
 
 def divide(a, b):
-    # BUG: Division by zero is not handled
+    # BUG: yesu prabhu
     return a / b
